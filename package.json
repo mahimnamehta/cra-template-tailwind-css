@@ -1,13 +1,13 @@
 {
   "name": "tail-css",
-  "version": "1.0.1",
-  "description": "```sh\r npx create-react-app my-app --template cra-template-tail-css\r cd in your app directory (if you created one)\r npm run tailbuild\r npm start\r ```",
+  "version": "1.0.2",
+  "description": "Tailwind Support",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mahimnamehta/cra-template-tailwind-css.git"
+    "url": "git+https://github.com/mahimnamehta/tail-css.git"
   },
   "keywords": [
     "react",
@@ -22,7 +22,7 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mahimnamehta/cra-template-tailwind-css/issues"
+    "url": "https://github.com/mahimnamehta/tail-css/issues"
   },
-  "homepage": "https://github.com/mahimnamehta/cra-template-tailwind-css#readme"
+  "homepage": "https://github.com/mahimnamehta/tail-css#readme"
 }
