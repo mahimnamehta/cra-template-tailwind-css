@@ -1,30 +1,28 @@
 {
-  "name": "cra-template-tailwindcss",
-  "version": "1.2.0",
+  "name": "cra-template-tailwind-css",
+  "version": "1.0.0",
+  "description": "```sh\r npx create-react-app my-app --template cra-template-tail-css\r cd in your app directory (if you created one)\r npm run tailbuild\r npm start\r ```",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahimnamehta/cra-template-tailwind-css.git"
+  },
   "keywords": [
     "react",
     "create-react-app",
     "template",
     "tailwindcss"
   ],
-  "bin": {
-    "create-my-app": "./index.js"
+  "author": {
+    "name": "Mahimna Mehta",
+    "url": "https://mahimnamehta.me/",
+    "email": "mahimna.mehta99@gmail.com"
   },
-  "description": "The base template for Create React App with tailwind-css setup.",
-  "repository": {
-    "type": "git",
-    "url": "",
-    "directory": ""
-  },
-  "license": "MIT",
-  "engines": {
-    "node": ">=14"
-  },
+  "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/mahimnamehta/cra-template-tailwind-css/issues"
   },
-  "files": [
-    "template",
-    "template.json"
-  ]
+  "homepage": "https://github.com/mahimnamehta/cra-template-tailwind-css#readme"
 }
