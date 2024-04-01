@@ -1,6 +1,6 @@
 {
-  "name": "cra-template-tailwind-css",
-  "version": "1.0.1",
+  "name": "tail-css",
+  "version": "1.0.0",
   "description": "```sh\r npx create-react-app my-app --template cra-template-tail-css\r cd in your app directory (if you created one)\r npm run tailbuild\r npm start\r ```",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
