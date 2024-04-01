@@ -1,6 +1,6 @@
 {
-  "name": "tail-css",
-  "version": "1.0.2",
+  "name": "cra-template-reactivetail",
+  "version": "1.0.1",
   "description": "Tailwind Support",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,8 @@
     "react",
     "create-react-app",
     "template",
-    "tailwindcss"
+    "tailwindcss",
+    "reactivetail"
   ],
   "author": {
     "name": "Mahimna Mehta",
